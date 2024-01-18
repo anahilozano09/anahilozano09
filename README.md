@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola a todos 😄
+- 👩‍🎓 Actualmente soy estudiante de Ingeniería en Computación
+- 💻 Me gusta aprender sobre el software en general
 <!--
 **anahilozano09/anahilozano09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
